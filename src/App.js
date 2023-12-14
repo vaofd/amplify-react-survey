@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <h1>Survey App Dashboard</h1>
-      <iframe src="https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/40eff87f-18af-47ab-aa37-94ec818a8d5a" height="1000" width="1000" title="SurveyDashBoard" />
+      <iframe src="https://us-east-1.quicksight.aws.amazon.com/sn/analyses/7b0b056c-5693-4293-97a0-5dc0c3c6fadc" height="1000" width="1000" title="SurveyDashBoard" />
     </div>
   );
 }
